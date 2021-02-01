@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780973009089",
+    "project_id": "my-memory-dfb84",
+    "storage_bucket": "my-memory-dfb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780973009089:android:ebf60bf084e034a28a4c40",
+        "android_client_info": {
+          "package_name": "com.nehaeff.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780973009089-nf6gpjb1hetjr03ni10r88ps6ff7fmjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTV6-RvYY6ngr9zBs2VzfGFwyi0xTcm3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780973009089-nf6gpjb1hetjr03ni10r88ps6ff7fmjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
